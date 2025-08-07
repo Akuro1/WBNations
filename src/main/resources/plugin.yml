@@ -1,0 +1,11 @@
+name: WBNations
+version: 1.1
+main: com.akuro.wbnations.WBNations
+api-version: 1.21
+authors: [Akuro]
+description: Plugin oficial para World Battles
+depend: ["PlaceholderAPI"]
+commands:
+  wbn:
+    description: Comando principal para gestionar países
+    usage: /wbn <subcomando>
